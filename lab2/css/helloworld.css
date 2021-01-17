@@ -1,10 +1,15 @@
 h1 {
-    color: red;
-    font-size: 250%;
+   color: #7D84B2;
+   font-size: 250%;
 }
 
 p {
-  color: purple;
-  font-size: 180%;
-  text-indent: 30px;
+   color: #D9DBF1;
+   font-size: 180%;
+   text-indent: 30px;
+   margin-left: 20px;
+}
+
+#content {
+    background-color: #F9F9ED;
 }
