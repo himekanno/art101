@@ -1,4 +1,10 @@
 h1 {
-    color: orange;
-    font-size: 200%;
+    color: red;
+    font-size: 250%;
+}
+
+p {
+  color: purple;
+  font-size: 100%;
+  text-indent: 30px;
 }
