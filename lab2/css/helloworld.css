@@ -11,5 +11,8 @@ p {
 }
 
 #content {
-    background-color: #B0D0D3;
+    background-color: #F9F9ED;
+    width: 300px;
+    min-height: 150px;
+    border: solid 2px #B0D0D3;
 }
