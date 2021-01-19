@@ -1,6 +1,7 @@
 h1 {
    color: #7D84B2;
    font-size: 250%;
+   margin-left: 20px;
 }
 
 p {
@@ -12,4 +13,5 @@ p {
 
 div {
     border-style: dashed;
+    border-color: #B0D0D3
 }
