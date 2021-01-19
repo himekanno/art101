@@ -9,3 +9,7 @@ p {
    text-indent: 30px;
    margin-left: 20px;
 }
+
+#content {
+    border-style: dashed;
+}
