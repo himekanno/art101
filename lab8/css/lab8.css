@@ -1,0 +1,31 @@
+header{
+  padding: 10px;
+  max-width: 650px;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #D9DBF1;
+}
+
+main{
+  padding: 20px;
+  max-width: 650px;
+  margin: auto;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #D9DBF1;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  color: #424874;
+}
+
+div{
+  color: #424874;
+}
