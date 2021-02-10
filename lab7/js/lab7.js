@@ -5,16 +5,16 @@
 
 // sortUserName
  function sortUserName(userName) {
-     console.log("userName = ", userName);
+     console.log(userName);
      // split name into array
      var nameArray = userName.split("");
-     console.log("nameArray = ", nameArray);
+     console.log(nameArray);
      // sort array
      var nameArraySort = nameArray.sort();
-     console.log("nameArraySort = ", nameArraySort);
+     console.log(nameArraySort);
      // join array to make new name
      var nameSorted = nameArraySort.join("");
-     console.log("nameSorted = ", nameSorted);
+     console.log(nameSorted);
      return nameSorted;
  }
 

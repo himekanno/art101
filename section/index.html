@@ -3,7 +3,7 @@
 <head>
 	<title>section</title>
 	<link rel="stylesheet" type="text/css" href="css/section.css">
-	<script type="text/javascript" src="js/script.js"></script>
+	<script type="text/javascript" src="js/script2129.js" defer>
 </head>
 
 <main>
@@ -15,7 +15,22 @@
 		<img src="/Users/joekanno/Desktop/art101/section/image&video/bunnywithsocks.png">
 	<h2>Video</h2>
 		<p>This is a video of my Rube Goldberg machine I made in my sculpture and public art class.</p>
-		<video width="800" height="auto" controls>
+		<video id="myVideo" width="800" height="auto" controls>
 		<source src="image&video/balldropvideo.mp4" type="video/mp4">
+		</video>
+
+<script>
+var vid = document.getElementById("myVideo");
+vid.onpause = function() {
+  alert("The video has been paused");
+};
+</script>
+
+<div id ="div_1">
+	This is annoying
+	<button onclick="runTest1()">Run Test 1!</button>
+
+</div>
+
 
 </main>
