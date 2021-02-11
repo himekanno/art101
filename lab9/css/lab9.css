@@ -1,25 +1,25 @@
 header{
   padding: 10px;
-  max-width: 300px;
+  max-width: 650px;
   margin: auto;
   margin-bottom: 30px;
   margin-top: 30px;
   border-radius: 20px;
   border-style: solid;
-  border-color: #D9DBF1;
+  border-color: DarkSlateGray;
 }
 
 main{
+  background: #D9DBF1;
   padding: 20px;
   max-width: 650px;
   margin: auto;
   border-radius: 20px;
-  border-style: solid;
-  border-color: #D9DBF1;
 }
 
 h1{
   text-align: center;
+  color: #424874;
 }
 
 p{
@@ -28,4 +28,7 @@ p{
 
 div{
   color: #424874;
+}
+button{
+  margin: auto;
 }
