@@ -1,0 +1,36 @@
+
+
+header{
+  background: MistyRose;
+  padding: 20px;
+  max-width: 650px;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+main{
+  background: MistyRose;
+  padding: 20px;
+  max-width: 650px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+h1{
+  text-align: center;
+  color: DarkRed;
+}
+
+p{
+  color: indianRed;
+}
+
+div{
+  color: white;
+}
+
+.special {
+ font-size: 20px;
+ color: DarkRed;
+}
