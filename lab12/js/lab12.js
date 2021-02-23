@@ -30,4 +30,5 @@ myButton.addEventListener("click", function() {
     document.getElementById("output").innerHTML = newText;
 })
 
+// Change color of button
 $("#submit-button").css('background','#9b8e71');
