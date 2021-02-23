@@ -1,0 +1,45 @@
+
+
+header{
+  background: #efdecd;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+main{
+  background: #efdecd;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+h1{
+  text-align: center;
+  color: #3d2b1f;
+}
+
+p{
+  color: #756745;
+}
+
+div{
+  color: #704214;
+}
+
+.special {
+ font-size: 20px;
+ color: #3d2b1f;
+}
+
+img{
+  width: 400px;
+  float: right;
+}
+
+html{
+  background: #3d2b1f;
+}
