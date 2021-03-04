@@ -1,0 +1,45 @@
+header{
+  background: aliceblue;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+main{
+  background: aliceblue;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+h1{
+  text-align: center;
+  color: #4f898f;
+  font-family: Verdana, sans-serif;
+}
+
+p{
+  color: #4e82b4;
+}
+
+div{
+  color: #56887d;
+}
+
+.special {
+ font-size: 20px;
+ color: #4f898f;
+ font-family: Verdana, sans-serif;
+}
+
+img{
+  width: 400px;
+  float: right;
+}
+
+html{
+  background: #c5d6d2;
+}

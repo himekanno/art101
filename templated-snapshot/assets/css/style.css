@@ -1,3 +1,7 @@
 .media a img{
   border: solid 10px DarkSlateGray;
 }
+
+.colorMe{
+  color: green;
+}

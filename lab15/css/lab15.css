@@ -1,0 +1,40 @@
+
+h1{
+  text-align: center;
+  color: #bb2548;
+  font-family: Verdana, sans-serif;
+  font-size: 45px;
+}
+
+p{
+  text-align: center;
+  color: #131413;
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+}
+
+.special {
+  text-align: center;
+  font-size: 20px;
+  color: #3c8ecc;
+  font-family: Verdana, sans-serif;
+}
+
+img{
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html{
+  background: #fefcfa;
+}
+
+
+#output {
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  font-size: 20px;
+  color: #bb2548;
+}
