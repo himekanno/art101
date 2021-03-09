@@ -1,6 +1,6 @@
 function getAjax(){
 $.ajax({
-  url:"data/dataXML.xml",
+  url:"data/data.txt",
   type:"GET",
   dataType:"text",
   success: successFun,
